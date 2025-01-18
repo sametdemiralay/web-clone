@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "tr": {
+      "title": "Hakkımızda",
+      "description": "Optimus Yazılım hakkında detaylı bilgiye ulaşın."
+    },
+    "en": {
+      "title": "About US",
+      "description": "Find detailed information about Optimus Software."
+    }
+  },
+  "aboutContent": {
+    "tr": {
+      "txtFirst": "Deneyimli yazılım ve destek ekibi alışık olduğunuz güvenilir, hızlı ve çözüm odaklı hizmetlerine devam etmek için Optimus Yazılım'da bir araya geldi.",
+      "txtSecond": "Sağladığımız dinamik çözümlerle kaliteli, hızlı ve güler yüzlü marka değerini koruyup,müşteri odaklı yaklaşımımızla memnuniyeti en üst seviyeye taşıyacak bir yazılım ve destek hizmeti sağlıyoruz.",
+      "txtThird": "Sektörümüze ve ülkemize katma değer yaratıyoruz.",
+      "infoList": [
+        {
+          "icon": "/icons/bookmark.svg",
+          "title": "300",
+          "subtitle": "Referans"
+        },
+        {
+          "icon": "/icons/user-book.svg",
+          "title": "1000",
+          "subtitle": "Kullanıcı"
+        },
+        {
+          "icon": "/icons/support.svg",
+          "title": "50",
+          "subtitle": "Destek Ekip"
+        },
+        {
+          "icon": "/icons/rocket.svg",
+          "title": "80",
+          "subtitle": "Ar-Ge"
+        },
+        {
+          "icon": "/icons/apps.svg",
+          "title": "400",
+          "subtitle": "Uygulama"
+        }
+      ],
+      "circles": [
+        {
+          "head": "Aracı Kurum & Banka",
+          "bodyLeft": "40+ Kurum",
+          "bodyRight": "50+ Modül",
+          "customClass": "left-0 lg:left-[calc(50%-16rem)] lg:-translate-x-1/2 top-0 bg-primary"
+        },
+        {
+          "head": "Fon Yönetimi",
+          "bodyLeft": "10+ Kurum",
+          "bodyRight": "150+ Modül",
+          "customClass": "right-0 lg:right-auto lg:left-1/2 lg:-translate-x-1/2 top-0 bg-customBlue"
+        },
+        {
+          "head": "Portföy Yönetimi",
+          "bodyLeft": "30+ Kurum",
+          "bodyRight": "70+ Modül",
+          "customClass": "bottom-4 lg:bottom-0 left-1/2 lg:left-[calc(50%-2rem)] -translate-x-1/2 lg:translate-x-1/2 bg-customPurple"
+        }
+      ]
+    },
+    "en": {
+      "txtFirst": "The experienced software and support team came together at Optimus Software to continue the reliable, fast and solution-oriented services you are used to.",
+      "txtSecond": "With the dynamic solutions we provide, we provide a software and support service that will maintain quality, fast and friendly brand value and maximize satisfaction with our customer-oriented approach.",
+      "txtThird": "We create added value for our industry and our country.",
+      "infoList": [
+        {
+          "icon": "/icons/bookmark.svg",
+          "title": "300+",
+          "subtitle": "Referans"
+        },
+        {
+          "icon": "/icons/user-book.svg",
+          "title": "1000+",
+          "subtitle": "Kullanıcı"
+        },
+        {
+          "icon": "/icons/support.svg",
+          "title": "50+",
+          "subtitle": "Destek Ekip"
+        },
+        {
+          "icon": "/icons/rocket.svg",
+          "title": "80+",
+          "subtitle": "Ar-Ge"
+        },
+        {
+          "icon": "/icons/apps.svg",
+          "title": "400+",
+          "subtitle": "Uygulama"
+        }
+      ],
+      "circles": [
+        {
+          "head": "Intermediary Institution & Bank",
+          "bodyLeft": "40+ Institutions",
+          "bodyRight": "50+ Modules",
+          "customClass": "left-0 lg:left-[calc(50%-16rem)] lg:-translate-x-1/2 top-0 bg-primary"
+        },
+        {
+          "head": "Fund Management",
+          "bodyLeft": "10+ Institutions",
+          "bodyRight": "150+ Modules",
+          "customClass": "right-0 lg:right-auto lg:left-1/2 lg:-translate-x-1/2 top-0 bg-customBlue"
+        },
+        {
+          "head": "Portfolio Management",
+          "bodyLeft": "30+ Institutions",
+          "bodyRight": "70+ Modules",
+          "customClass": "bottom-4 lg:bottom-0 left-1/2 lg:left-[calc(50%-2rem)] -translate-x-1/2 lg:translate-x-1/2 bg-customPurple"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1 @@
+# iç sayfalarda iken scroll en üstte alttaki çizgi beyaz olmuyor.

@@ -1,0 +1,180 @@
+{
+    "pages": {
+        "tr": [
+            {
+                "title": "Hakkımızda",
+                "url": "/hakkimizda",
+                "bannerBgImage": "/banners/about.png"
+            },
+            {
+                "title": "Ürün & Hizmetlerimiz",
+                "url": "/urunler",
+                "bannerBgImage": "/banners/products.png",
+                "isDropdown": true,
+                "contents": [
+                    {
+                        "title": "Aracı Kurum Otomasyonu",
+                        "url": "/urunler/araci-kurum",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    },
+                    {
+                        "title": "Yatırım Fonu",
+                        "url": "/urunler/yatirim-fonu",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    },
+                    {
+                        "title": "Yatırım Ortaklığı",
+                        "url": "/urunler/yatirim-ortakligi",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    },
+                    {
+                        "title": "Portföy Yönetimi",
+                        "url": "/urunler/portfoy",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    },
+                    {
+                        "title": "Halka Arz Liderlik ve Portal",
+                        "url": "/urunler/halka-arz",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    },
+                    {
+                        "title": "Bireysel Saklama",
+                        "url": "/urunler/bireysel-saklama",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    },
+                    {
+                        "title": "Kolektif Saklama",
+                        "url": "/urunler/kolektif-saklama",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    },
+                    {
+                        "title": "Online Hesap Açılışı",
+                        "url": "/urunler/online-hesap-acilisi",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    },
+                    {
+                        "title": "E-Guide",
+                        "url": "/urunler/e-guide",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    },
+                    {
+                        "title": "Mobil Uygulama",
+                        "url": "/urunler/mobil",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    }
+                ]
+            },
+            {
+                "title": "Referanslarımız",
+                "url": "/referanslarimiz",
+                "bannerBgImage": "/banners/references.png"
+            },
+            {
+                "title": "Kariyer",
+                "url": "/kariyer",
+                "bannerBgImage": "/banners/career.png",
+                "isDropdown": false,
+                "contents": [
+                    {
+                        "title": "Başvuru",
+                        "url": "/kariyer/basvuru",
+                        "bannerBgImage": "/banners/career.png"
+                    }
+                ]
+            },
+            {
+                "title": "İletişim",
+                "url": "/iletisim",
+                "bannerBgImage": "/banners/contact.png"
+            }
+        ],
+        "en": [
+            {
+                "title": "About Us",
+                "url": "/hakkimizda",
+                "bannerBgImage": "/banners/about.png"
+            },
+            {
+                "title": "Products & Services",
+                "url": "/urunler",
+                "bannerBgImage": "/banners/products.png",
+                "isDropdown": true,
+                "contents": [
+                    {
+                        "title": "Intermediary Institution Automation",
+                        "url": "/urunler/araci-kurum",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    },
+                    {
+                        "title": "Investment Fund",
+                        "url": "/urunler/yatirim-fonu",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    },
+                    {
+                        "title": "Investment Partnership",
+                        "url": "/urunler/yatirim-ortakligi",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    },
+                    {
+                        "title": "Portfolio Management",
+                        "url": "/urunler/portfoy",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    },
+                    {
+                        "title": "IPO Leadership and Portal",
+                        "url": "/urunler/halka-arz",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    },
+                    {
+                        "title": "Individual Storage",
+                        "url": "/urunler/bireysel-saklama",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    },
+                    {
+                        "title": "Collective Storage",
+                        "url": "/urunler/kolektif-saklama",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    },
+                    {
+                        "title": "Online Account Opening",
+                        "url": "/urunler/online-hesap-acilisi",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    },
+                    {
+                        "title": "E-Guide",
+                        "url": "/urunler/e-guide",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    },
+                    {
+                        "title": "Mobile Application",
+                        "url": "/urunler/mobil",
+                        "bannerBgImage": "/banners/products-detail.png"
+                    }
+                ]
+            },
+            {
+                "title": "References",
+                "url": "/referanslarimiz",
+                "bannerBgImage": "/banners/references.png"
+            },
+            {
+                "title": "Career",
+                "url": "/kariyer",
+                "bannerBgImage": "/banners/career.png",
+                "isDropdown": false,
+                "contents": [
+                    {
+                        "title": "Application",
+                        "url": "/kariyer/basvuru",
+                        "bannerBgImage": "/banners/career.png"
+                    }
+                ]
+            },
+            {
+                "title": "Contact",
+                "url": "/iletisim",
+                "bannerBgImage": "/banners/contact.png"
+            }
+        ]
+    }
+}
