@@ -14,11 +14,11 @@ const CustomSection = ({
   return (
     <section
       className={`
-          px-4 py-12 ${backgroundColor ? backgroundColor : ""}
+          py-12 ${backgroundColor ? backgroundColor : ""}
           ${background ? "aaabg-opacity-100" : "aaabg-opacity-0"}
         `}
     >
-      <div className="container mx-auto">{children}</div>
+      <div className="container mx-auto px-4">{children}</div>
     </section>
   );
 };

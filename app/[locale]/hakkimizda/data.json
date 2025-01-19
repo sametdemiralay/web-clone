@@ -16,26 +16,31 @@
       "txtThird": "Sektörümüze ve ülkemize katma değer yaratıyoruz.",
       "infoList": [
         {
+          "id": "1",
           "icon": "/icons/bookmark.svg",
           "title": "300",
           "subtitle": "Referans"
         },
         {
+          "id": "2",
           "icon": "/icons/user-book.svg",
           "title": "1000",
           "subtitle": "Kullanıcı"
         },
         {
+          "id": "3",
           "icon": "/icons/support.svg",
           "title": "50",
           "subtitle": "Destek Ekip"
         },
         {
+          "id": "4",
           "icon": "/icons/rocket.svg",
           "title": "80",
           "subtitle": "Ar-Ge"
         },
         {
+          "id": "5",
           "icon": "/icons/apps.svg",
           "title": "400",
           "subtitle": "Uygulama"
@@ -43,18 +48,21 @@
       ],
       "circles": [
         {
+          "id": "1",
           "head": "Aracı Kurum & Banka",
           "bodyLeft": "40+ Kurum",
           "bodyRight": "50+ Modül",
           "customClass": "left-0 lg:left-[calc(50%-16rem)] lg:-translate-x-1/2 top-0 bg-primary"
         },
         {
+          "id": "2",
           "head": "Fon Yönetimi",
           "bodyLeft": "10+ Kurum",
           "bodyRight": "150+ Modül",
           "customClass": "right-0 lg:right-auto lg:left-1/2 lg:-translate-x-1/2 top-0 bg-customBlue"
         },
         {
+          "id": "3",
           "head": "Portföy Yönetimi",
           "bodyLeft": "30+ Kurum",
           "bodyRight": "70+ Modül",
@@ -68,26 +76,31 @@
       "txtThird": "We create added value for our industry and our country.",
       "infoList": [
         {
+          "id": "1",
           "icon": "/icons/bookmark.svg",
           "title": "300+",
           "subtitle": "Referans"
         },
         {
+          "id": "2",
           "icon": "/icons/user-book.svg",
           "title": "1000+",
           "subtitle": "Kullanıcı"
         },
         {
+          "id": "3",
           "icon": "/icons/support.svg",
           "title": "50+",
           "subtitle": "Destek Ekip"
         },
         {
+          "id": "4",
           "icon": "/icons/rocket.svg",
           "title": "80+",
           "subtitle": "Ar-Ge"
         },
         {
+          "id": "5",
           "icon": "/icons/apps.svg",
           "title": "400+",
           "subtitle": "Uygulama"
@@ -95,18 +108,21 @@
       ],
       "circles": [
         {
+          "id": "1",
           "head": "Intermediary Institution & Bank",
           "bodyLeft": "40+ Institutions",
           "bodyRight": "50+ Modules",
           "customClass": "left-0 lg:left-[calc(50%-16rem)] lg:-translate-x-1/2 top-0 bg-primary"
         },
         {
+          "id": "2",
           "head": "Fund Management",
           "bodyLeft": "10+ Institutions",
           "bodyRight": "150+ Modules",
           "customClass": "right-0 lg:right-auto lg:left-1/2 lg:-translate-x-1/2 top-0 bg-customBlue"
         },
         {
+          "id": "3",
           "head": "Portfolio Management",
           "bodyLeft": "30+ Institutions",
           "bodyRight": "70+ Modules",

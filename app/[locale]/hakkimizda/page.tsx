@@ -22,7 +22,7 @@ export default function AboutPage() {
         <div className="flex flex-wrap my-6">
           {aboutContent.infoList.map((item: any) => (
             <div
-              key={item.title}
+              key={item.id}
               className="flex gap-3 mb-5 w-1/2 lg:w-1/5 justify-center"
             >
               <Image
@@ -43,6 +43,7 @@ export default function AboutPage() {
           {aboutContent.circles.map((item: any) => (
             <div
               className={`absolute w-44 h-44 sm:w-52 sm:h-52 md:w-60 md:h-60 lg:w-72 lg:h-72 rounded-full flex items-center justify-center text-center shadow-xl ${item.customClass}`}
+              key={item.id}
             >
               <div className="w-3/4 md:w-4/6 flex flex-col gap-3">
                 <h2 className="font-bold leading-none">{item.head}</h2>

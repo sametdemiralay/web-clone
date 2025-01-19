@@ -107,7 +107,7 @@ export default function Navbar() {
   // Memoized desktop navigation
   const DesktopNavigation = useMemo(
     () => (
-      <nav className="hidden md:flex gap-5">
+      <nav className="hidden lg:flex gap-5">
         {pages.map((page: Page) => (
           <div
             className="relative group inline-flex justify-center"
@@ -146,7 +146,7 @@ export default function Navbar() {
 
         {/* Mobile Menu Toggle */}
         <button
-          className="md:hidden"
+          className="lg:hidden"
           onClick={toggleMobileMenu}
           aria-label="Toggle mobile menu"
         >
@@ -158,7 +158,7 @@ export default function Navbar() {
 
       {/* Mobile Menu */}
       {isMobileMenuOpen && (
-        <div className="md:hidden fixed inset-0 bg-bgDefault z-50 flex flex-col transform transition-transform duration-300 ease-in-out translate-x-0">
+        <div className="lg:hidden fixed inset-0 bg-bgDefault z-50 flex flex-col transform transition-transform duration-300 ease-in-out translate-x-0">
           <div className="flex justify-end items-center py-5 px-4">
             <button onClick={toggleMobileMenu} aria-label="Close mobile menu">
               <div className="relative w-[23px] h-[23px]">

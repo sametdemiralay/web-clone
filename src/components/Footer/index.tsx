@@ -42,8 +42,8 @@ const Footer = () => {
 
   return (
     <footer>
-      <div className="container mx-auto">
-        <div className="py-4 lg:py-8 px-4 lg:px-0 flex flex-col lg:flex-row lg:justify-between">
+      <div className="container mx-auto px-4">
+        <div className="py-4 lg:py-8 flex flex-col lg:flex-row lg:justify-between">
           <div className="mb-8 lg:mb-0 lg:w-1/2">
             <div className="relative w-[192px] h-[52px] lg:w-[244px] lg:h-[66px] mb-4">
               <Image src="/logo.svg" alt="Optimus Yazılım Logo" fill />
